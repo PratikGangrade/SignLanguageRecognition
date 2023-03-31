@@ -1,2 +1,2 @@
-1. install all the libraries from requirements.txt.
-2. run main.py or final.ipynb file. 
+1. Install all the libraries from requirements.txt.
+2. Run main.py or final.ipynb file. 
